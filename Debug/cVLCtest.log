@@ -1,0 +1,57 @@
+﻿  main.cpp
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/FORCE' 사양으로 인해 무시됩니다.
+Encoder.obj : warning LNK4006: "char (* YQuanTable)[8]" (?YQuanTable@@3PAY07DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Encoder.obj : warning LNK4006: "unsigned char (* src_data)[8]" (?src_data@@3PAY07EA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Encoder.obj : warning LNK4006: "char (* dct_coef)[8]" (?dct_coef@@3PAY07DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Encoder.obj : warning LNK4006: "char * Encoded_bytestream" (?Encoded_bytestream@@3PADA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Encoder.obj : warning LNK4006: "char * Encoded_bitstream" (?Encoded_bitstream@@3PADA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Encoder.obj : warning LNK4006: "char * Decoded_bytestream" (?Decoded_bytestream@@3PADA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Encoder.obj : warning LNK4006: "char (* Izigzag)[8]" (?Izigzag@@3PAY07DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Encoder.obj : warning LNK4006: "unsigned char (* restored)[8]" (?restored@@3PAY07EA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Encoder.obj : warning LNK4006: "char pre_DC_coef" (?pre_DC_coef@@3DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Encoder.obj : warning LNK4006: "unsigned short * coef_max_Range" (?coef_max_Range@@3PAGA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Encoder.obj : warning LNK4006: "unsigned short * coef_min_Range" (?coef_min_Range@@3PAGA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Encoder.obj : warning LNK4006: "unsigned int * DC_basecode" (?DC_basecode@@3PAIA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Encoder.obj : warning LNK4006: "char * DC_length" (?DC_length@@3PADA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Encoder.obj : warning LNK4006: "unsigned int (* AC_basecode)[11]" (?AC_basecode@@3PAY0L@IA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Encoder.obj : warning LNK4006: "char (* AC_length)[11]" (?AC_length@@3PAY0L@DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+function.obj : warning LNK4006: "char (* YQuanTable)[8]" (?YQuanTable@@3PAY07DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+function.obj : warning LNK4006: "unsigned char (* src_data)[8]" (?src_data@@3PAY07EA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+function.obj : warning LNK4006: "char (* dct_coef)[8]" (?dct_coef@@3PAY07DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+function.obj : warning LNK4006: "char * Encoded_bytestream" (?Encoded_bytestream@@3PADA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+function.obj : warning LNK4006: "char * Encoded_bitstream" (?Encoded_bitstream@@3PADA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+function.obj : warning LNK4006: "char * Decoded_bytestream" (?Decoded_bytestream@@3PADA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+function.obj : warning LNK4006: "char (* Izigzag)[8]" (?Izigzag@@3PAY07DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+function.obj : warning LNK4006: "unsigned char (* restored)[8]" (?restored@@3PAY07EA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+function.obj : warning LNK4006: "char pre_DC_coef" (?pre_DC_coef@@3DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+function.obj : warning LNK4006: "unsigned short * coef_max_Range" (?coef_max_Range@@3PAGA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+function.obj : warning LNK4006: "unsigned short * coef_min_Range" (?coef_min_Range@@3PAGA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+function.obj : warning LNK4006: "unsigned int * DC_basecode" (?DC_basecode@@3PAIA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+function.obj : warning LNK4006: "char * DC_length" (?DC_length@@3PADA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+function.obj : warning LNK4006: "unsigned int (* AC_basecode)[11]" (?AC_basecode@@3PAY0L@IA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+function.obj : warning LNK4006: "char (* AC_length)[11]" (?AC_length@@3PAY0L@DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "char (* YQuanTable)[8]" (?YQuanTable@@3PAY07DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "unsigned char (* src_data)[8]" (?src_data@@3PAY07EA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "char (* dct_coef)[8]" (?dct_coef@@3PAY07DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "char * Encoded_bytestream" (?Encoded_bytestream@@3PADA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "char * Encoded_bitstream" (?Encoded_bitstream@@3PADA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "char * Decoded_bytestream" (?Decoded_bytestream@@3PADA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "char (* Izigzag)[8]" (?Izigzag@@3PAY07DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "unsigned char (* restored)[8]" (?restored@@3PAY07EA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "char pre_DC_coef" (?pre_DC_coef@@3DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "unsigned short * coef_max_Range" (?coef_max_Range@@3PAGA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "unsigned short * coef_min_Range" (?coef_min_Range@@3PAGA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "unsigned int * DC_basecode" (?DC_basecode@@3PAIA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "char * DC_length" (?DC_length@@3PADA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "unsigned int (* AC_basecode)[11]" (?AC_basecode@@3PAY0L@IA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "char (* AC_length)[11]" (?AC_length@@3PAY0L@DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "char flag_encoded" (?flag_encoded@@3DA)이(가) Encoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "unsigned char * bitstream" (?bitstream@@3PAEA)이(가) Encoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "unsigned __int64 enc_bits_buf" (?enc_bits_buf@@3_KA)이(가) Encoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "char enc_bits_len" (?enc_bits_len@@3DA)이(가) Encoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "char stream_index" (?stream_index@@3DA)이(가) Encoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "unsigned __int64 dec_bits_buf" (?dec_bits_buf@@3_KA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "char bytes_index" (?bytes_index@@3DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+main.obj : warning LNK4006: "char dec_bits_len" (?dec_bits_len@@3DA)이(가) Decoder.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+C:\Users\jo\Downloads\J22\가변길이부호화(VLC)실습\cVLCtest\Debug\cVLCtest.exe : warning LNK4088: /FORCE 옵션을 사용하여 생성하는 이미지입니다. 이미지가 실행되지 않을 수도 있습니다.
+  cVLCtest.vcxproj -> C:\Users\jo\Downloads\J22\가변길이부호화(VLC)실습\cVLCtest\Debug\cVLCtest.exe
